@@ -19,4 +19,6 @@ const Index = () => {
   );
 };
 
-export default Index;
+export default function Index() {
+  return <div>Hello</div>
+}
